@@ -1,0 +1,9 @@
+1)	git clone <link del repositorio>
+2)	ls
+3)	git config –-global user.email “vmartinita10@hotmail.com” 
+4)	cp product.cpp div3.cpp… <nombre del repositorio>
+5)	cd <nombre del repositorio>
+6)	ls
+7)	git add product.cpp div3.cpp…
+8)	git commit -m “archivo”
+9)	git push
